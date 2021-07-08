@@ -1,25 +1,30 @@
 {
   "app_name": "EasyApply",
-  "description": "A Job-Board App for Junior or Entry Level Tech Jobs",
-  "hidden": true,
-  "rank": 255,
+  "description": "A Job-Board App for Junior or Entry Level Tech Jobs powered with RedisJSON",
+  "rank": "350",
   "type": "Full App",
-  "contributed_by": "Prathamesh Shanbhag",
-  "repo_url": "https://github.com/Prathamesh-Shanbhag/EasyApply",
-  "download_url": "https://codeload.github.com/Prathamesh-Shanbhag/EasyApply/zip/refs/heads/main",
+  "contributed_by": "Community",
+  "repo_url": "https://github.com/redis-developer/EasyApply",
+  "download_url": "https://github.com/redis-developer/EasyApply/archive/refs/heads/main.zip",
   "hosted_url": "https://easy-apply.vercel.app/",
-  "quick_deploy": "false",
+  "quick_deploy": "true",
+    "deploy_buttons": [
+        {
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/EasyApply.git" 
+        },
+        {
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/EasyApply.git" 
+        }
+    ],
   "language": [
-    "Backend technologies: Node.js,RedisJSON,Front-End Technologies:Reactjs"
+    "Node.JS","ReactJS"
   ],
   "redis_commands": ["setAsync", "getAsync"],
-  "redis_features": ["caching"],
-  "redis_modules": ["RediJSON"],
-  "app_image_urls": [
-    "https://github.com/redis-developer/basic-caching-demo-nodejs/blob/main/docs/screenshot001.png?raw=true"
-  ],
-  "youtube_url": "https://youtu.be/CrTKlxDGSzg",
+  "redis_features": ["Caching"],
+  "redis_modules": ["RedisJSON"],
+  "app_image_urls": [],
+  "youtube_url": "https://www.youtube.com/watch?v=CrTKlxDGSzg",
   "special_tags": ["Hackathon"],
   "verticals": ["Technology", "Financial"],
-  "markdown": "https://raw.githubusercontent.com/redislabs-training/redis-sitesearch/master/README.md"
+  "markdown": "https://raw.githubusercontent.com/redis-developer/EasyApply/master/README.md"
 }
