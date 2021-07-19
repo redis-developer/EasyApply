@@ -7,7 +7,7 @@
   "repo_url": "https://github.com/redis-developer/EasyApply",
   "download_url": "https://github.com/redis-developer/EasyApply/archive/refs/heads/main.zip",
   "hosted_url": "https://easy-apply.vercel.app/",
-  "quick_deploy": "true",
+  "quick_deploy": "false",
     "deploy_buttons": [
         {
             "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/EasyApply.git" 
