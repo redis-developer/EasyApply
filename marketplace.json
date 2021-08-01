@@ -6,6 +6,7 @@
   "type": "Full App",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/EasyApply",
+  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/EasyApply/master/images/app_preview_image.png", 
   "download_url": "https://github.com/redis-developer/EasyApply/archive/refs/heads/main.zip",
   "hosted_url": "https://easy-apply.vercel.app/",
   "quick_deploy": "false",
