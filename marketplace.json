@@ -2,7 +2,6 @@
   "app_name": "EasyApply",
   "description": "A Job-Board App for Junior or Entry Level Tech Jobs powered with RedisJSON",
   "rank": "350",
-  "hidden": "true",
   "type": "Full App",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/EasyApply",
