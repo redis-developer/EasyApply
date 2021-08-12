@@ -24,7 +24,7 @@
   "redis_features": ["Caching"],
   "redis_modules": ["RedisJSON"],
   "app_image_urls": [],
-  "youtube_url": "https://www.youtube.com/watch?v=CrTKlxDGSzg",
+  "youtube_url": "https://www.youtube.com/watch?v=V2NLauzib0U",
   "special_tags": ["Hackathon"],
   "verticals": ["Technology", "Financial"],
   "markdown": "https://raw.githubusercontent.com/redis-developer/EasyApply/master/README.md"
