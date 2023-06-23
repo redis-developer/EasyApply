@@ -1,6 +1,6 @@
 {
   "app_name": "EasyApply",
-  "description": "A Job-Board App for Junior or Entry Level Tech Jobs powered with RedisJSON",
+  "description": "A Job-Board App for Junior or Entry Level Tech Jobs powered with Redis JSON",
   "rank": "350",
   "type": "Full App",
   "contributed_by": "Community",
@@ -21,8 +21,8 @@
     "Node.JS","ReactJS"
   ],
   "redis_commands": ["setAsync", "getAsync"],
-  "redis_features": ["Caching"],
-  "redis_modules": ["RedisJSON"],
+  "redis_use_cases": ["Caching"],
+  "redis_features": ["JSON"],
   "app_image_urls": [],
   "youtube_url": "https://www.youtube.com/watch?v=V2NLauzib0U",
   "special_tags": ["Hackathon"],
